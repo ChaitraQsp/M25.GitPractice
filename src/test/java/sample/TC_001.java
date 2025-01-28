@@ -7,6 +7,7 @@ public class TC_001 {
 		System.out.println("Hi");
 		
 		System.out.println("Hi");
+		System.out.println("Hi");
 	}
 
 }
